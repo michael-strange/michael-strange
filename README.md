@@ -1,6 +1,6 @@
 # Michael Strange
 
-### **Student at Central Michigan University**
+### **Central Michigan University Graduate**
 
 #
 
@@ -18,4 +18,4 @@
 <br />
 
 #
-![Aiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=michael-strange&show_icons=true&rank_icon=github&theme=synthwave)
+![Michaels's GitHub stats](https://github-readme-stats.vercel.app/api?username=michael-strange&show_icons=true&rank_icon=github&theme=synthwave)
